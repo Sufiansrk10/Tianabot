@@ -1,6 +1,6 @@
 {
       "name": "Tiana Bot",
-      "logo": "https://telegra.ph/file/fae3dd2a2c6e491e4893e.jpg",
+      "logo": "https://telegra.ph/file/80412012cf48f53c82b37.jpg",
       "description": "A Telegram Powerfull Group Managment Bot written in Python using Pyrogram and Telethon",
       "keywords": [
          "telegram",
@@ -11,7 +11,7 @@
          "tianabot",
          "telegram"
       ],   
-   "repository": "https://github.com/Prince-Botz/TianaBot",
+   "repository": "https://github.com/Sufiansrk10/Tianabot",
    "addons": [
       {
          "options": {
